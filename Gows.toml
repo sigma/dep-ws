@@ -1,0 +1,7 @@
+[[package]]
+  name = "github.com/sigma/dep-ws/proj1"
+  path = "proj1"
+
+[[package]]
+  name = "github.com/sigma/dep-ws/proj2"
+  path = "proj2"

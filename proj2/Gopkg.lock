@@ -2,23 +2,14 @@
 
 
 [[projects]]
-  name = "github.com/sdboyer/deptest"
-  packages = ["."]
-  revision = "ff2948a2ac8f538c4ecd55962e919d1e13e74baf"
-  version = "v1.0.0"
-
-[[projects]]
   name = "github.com/sigma/deptest"
-  packages = [
-    ".",
-    "sub"
-  ]
+  packages = ["sub"]
   revision = "37a494bbb8f34c3eb6d23bfc90a0baa677435244"
   version = "v1.0.2"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "cee24992709779eb0783f775ff47e3ac3741aae1d5c3c36083f3b743558ea95f"
+  inputs-digest = "a53c3365bd8e7ba0a1de64700bcf3c46b05f9f4d3e0f9310f7da8b525d6634f1"
   solver-name = "gps-cdcl"
   solver-version = 1
